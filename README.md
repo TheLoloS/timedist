@@ -1,46 +1,36 @@
-# Getting Started with Create React App
+# TimeDist 💎⏱
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Timedist is an app for managing your time, money and private economy. Thanks to it, you can better control your finances and plan your activities.
 
-## Available Scripts
+## Functionalities
 
-In the project directory, you can run:
+Timedist offers many features that will help you manage your time and finances. Here are a few of them:
 
-### `npm start`
+### Time management
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The application allows you to create daily and weekly plans, thanks to which it is easier to organize your tasks. You can set priorities, reminders and deadlines, which will allow you to use your time more efficiently.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Budgeting
 
-### `npm test`
+Timedist allows you to create budgets that make it easier to control your spending. You can enter your income and expenses, and the application will calculate how much you can spend in a given month on various categories.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Track your expenses
 
-### `npm run build`
+The app allows you to track expenses in various categories, such as food, housing and entertainment. This makes it easier to see what you spend the most money on and make savings decisions.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Finance analysis
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Timedist generates reports and charts that allow you to better understand your financial situation. You can see what your expenses are in each category, how they change over time and what your savings are.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Privacy and security
 
-### `npm run eject`
+Timedist cares about the security and privacy of its users. All data is encrypted and the application does not share it with other companies or third parties.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## How to use Timedist?
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To use Timedist, you need to create an account on the application website. Then you can start using functionalities such as time management, budgeting and expense tracking.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Contact
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+If you have any questions or comments about Timedist, please contact us using the contact form on the website. i will be happy to help you.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
